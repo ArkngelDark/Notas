@@ -1,0 +1,13 @@
+{
+    "name":"Mis Ideas",
+    "launch_path" : "/index.html",
+    "developer": {
+        "name":"Samuel Maya Arias",
+        "url":""
+    },
+    "description":"Notas y ideas importaes",
+    "icons":{
+        "128":"/icon.jpg"
+    }
+}
+
